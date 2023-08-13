@@ -1,3 +1,3 @@
 # hello-world
-Hi! this is a test repository
+Hi! Im Christian Sibug
 I am a python programmer
